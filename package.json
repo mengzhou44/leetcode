@@ -1,0 +1,28 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mengzhou44/leetcode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mengzhou44/leetcode/issues"
+  },
+  "homepage": "https://github.com/mengzhou44/leetcode#readme",
+  "prettier": {
+    "semi": false,
+    "useTabs": true,
+    "printWidth": 100,
+    "singleQuote": true
+  },
+  "dependencies": {
+    "prettier": "^2.1.2"
+  }
+}
